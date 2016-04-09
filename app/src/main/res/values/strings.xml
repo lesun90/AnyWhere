@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2014 Google, Inc
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <string name="app_name">Any Where</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+    <string name="start_updates">Start updates</string>
+    <string name="stop_updates">Stop updates</string>
+    <string name="location_updated_message">Location updated</string>
+    <string name="google_api_key">AIzaSyDXr3kel1zSobCw4rA6cppJ4e8KfgwI4fA</string>
+
+    <string-array name="choices">
+        <item>Hang Out</item>
+        <item>Enjoy Nature</item>
+        <item>Interesting Place</item>
+        <item>Shopping</item>
+        <item>Relax</item>
+        <item>Anything</item>
+    </string-array>
+
+
+    <string-array name="HangOut">
+        <item>bar</item>
+        <item>cafe</item>
+        <item>casino</item>
+        <item>night_club</item>
+        <item>restaurant</item>
+        <item>movie_theater</item>
+        <item>bowling_alley</item>
+    </string-array>
+
+    <string-array name="EnjoyNature">
+        <item>campground</item>
+        <item>park</item>
+        <item>zoo</item>
+        <item>country</item>
+        <item>nature_feature</item>
+    </string-array>
+
+    <string-array name="InterestingPlace">
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>art_gallery</item>
+        <item>casino</item>
+        <item>museum</item>
+        <item>point_of_interest</item>
+    </string-array>
+
+    <string-array name="Shopping">
+        <item>book_store</item>
+        <item>clothing_store</item>
+        <item>department_store</item>
+        <item>furniture_store</item>
+        <item>home_goods_store</item>
+        <item>jewelry_store</item>
+        <item>shoe_store</item>
+        <item>shopping_mall</item>
+        <item>store</item>
+    </string-array>
+
+    <string-array name="Relax">
+        <item>beauty_salon</item>
+        <item>hair_care</item>
+        <item>spa</item>
+    </string-array>
+
+</resources>
